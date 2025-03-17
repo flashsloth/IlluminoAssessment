@@ -11,4 +11,4 @@ To run the application, you can use the following command:
 ```
 gradle run
 ```
-or you can directly go to [FlowLogTagger](org.example.FlowLogTagger) and run the main method.
+or you can directly go to [FlowLogTagger](src/main/java/org/example/FlowLogTagger.java) and run the main method.
