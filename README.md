@@ -12,3 +12,11 @@ To run the application, you can use the following command:
 gradle run
 ```
 or you can directly go to [FlowLogTagger](src/main/java/org/example/FlowLogTagger.java) and run the main method.
+ 
+ ### Flow
+ - It starts with Loading lookup table from text file into a map (supporting multiple tags per key)
+ - Process flow logs and tag them based on the lookup table
+ - Finally Generate summary of tag counts and port/protocol combinations
+
+### Result
+The result is stored in `output.txt` file
