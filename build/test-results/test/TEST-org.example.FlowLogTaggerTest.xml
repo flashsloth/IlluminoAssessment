@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FlowLogTaggerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-17T06:12:04" hostname="AF61949FY06" time="0.031">
+  <properties/>
+  <testcase name="testGenerateSummary()" classname="org.example.FlowLogTaggerTest" time="0.025"/>
+  <testcase name="testProcessFlowLogs()" classname="org.example.FlowLogTaggerTest" time="0.003"/>
+  <testcase name="testLoadLookupTable()" classname="org.example.FlowLogTaggerTest" time="0.002"/>
+  <system-out><![CDATA[Lookup table loaded with 2 entries.
+Lookup table loaded with 2 entries.
+Lookup table loaded with 2 entries.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
